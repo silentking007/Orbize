@@ -1752,7 +1752,7 @@ span {
 
 .achievement-wrapper {
   padding: 100px 80px;
-  background-color: #007BFF;
+  background-color: #0B132B;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -4703,7 +4703,7 @@ span {
   position: relative;
   overflow: hidden;
   white-space: nowrap;
-  background-color: #007BFF;
+  background-color: #0B132B;
   z-index: 9;
 }
 .marquee-wrapper.style-2 {
